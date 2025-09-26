@@ -10,7 +10,7 @@ subprocess.call('cls', shell=True)
 #fancy msg
 intro="\033[1;35;40m  |-----------------------------|\n\
   |   Sergeant Port Scanner!    |\n\
-  |      by L         |\n\
+  |           by 0x2            |\n\
   |-----------------------------|\n\
            ------------          \n\
             ----------           \n\
@@ -26,6 +26,9 @@ def typewriter(message):
         time.sleep(0.02)
 
 typewriter(intro)
+
+
+
 
 
 
